@@ -110,7 +110,7 @@ function About({ imageSource }) {
         <div className="line"></div>
         <h6 className="About_word">
           Qualified and professional{" "}
-          <span className="fw-bold">Front End Web Developer</span> with <span className="fw-bold"> 2 years</span>
+          <span className="fw-bold">Front End Web Developer</span> with <span className="fw-bold"> 2 years </span>
           of experience in website design. Strong creative and analytical
           skills, specializing in responsive website design. A team player with
           an eye for detail.
